@@ -1,0 +1,11 @@
+# Kodi Media Center language file
+# Addon Name: Open Item Folder
+# Addon id: script.openfolder2
+msgid ""
+msgstr ""
+
+# Commands
+
+msgctxt "#32100"
+msgid "Open item folder"
+msgstr ""
