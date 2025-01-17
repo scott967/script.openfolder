@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<addon id="script.openfolder" version="0.0.1" name="Open folder in Explorer" provider-name="scott967">
+	<requires>
+	<import addon="xbmc.gui" version="5.17.0"/>
+	<import addon="xbmc.python" version ="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py" />
+	<extension point="xbmc.addon.metadata">
+	<summary lang="en">Open the listitem folder in explorer</summary>
+	<description lang="en">Open the listitem folder in explorer</description>
+	<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>
